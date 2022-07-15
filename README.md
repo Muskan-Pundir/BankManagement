@@ -1,0 +1,1 @@
+This is a Mini-Project which deals with the normal functionality like opening or closing account ,deposit or withdraw money, display details and checking account balance of customer. This Project is made for Bank Employer End Only. Project is wriiten in Python with MySQL Connector.
